@@ -1,14 +1,14 @@
 # MalGrid
 > Visualization Of Binary Features In Large Malware Corpora
 
-_MalGrid_ is novel method to visualize and map millions of malware to points in a 2-dimensional (2D) spatial grid. This enables visualizing relationships within large malware datasets that can be used to develop triage solutions to screen different malware rapidly and provide situational awareness. Our first view is a spatial point-based visualization of similarity among the samples based on a reduced dimensional projection of binary feature representations of malware. Our second spatial grid-based view provides a better insight into similarities and differences between selected malware samples in terms of the binary-based visual representations they share.
+_MalGrid_ is a novel method to visualize and map millions of malware to points in a 2-dimensional (2D) spatial grid. This enables visualizing relationships within large malware datasets that can be used to develop triage solutions to screen different malware rapidly and provide situational awareness. Our first view is a spatial point-based visualization of similarity among the samples based on a reduced dimensional projection of binary feature representations of malware. Our second spatial grid-based view provides a better insight into similarities and differences between selected malware samples in terms of the binary-based visual representations they share.
 
 <p align="center">
     <img src="figs/visualization-example.gif" alt="MalGrid Vis" height="500"/>
 </p>
 
 ```diff
-+ HIGH-QUALITY IMAGES FROM THE PAPER ARE AVAILABLE
++ HIGH-QUALITY IMAGES IN THE PAPER ARE AVAILABLE
 - CODE IS NOT MADE AVAILABLE AT THIS TIME
 ```
 
