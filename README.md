@@ -49,4 +49,4 @@ Have more questions? Write to us by filling in this [form](https://mayachitra.co
 
 _MalGrid_ is released under GPL-3.0 License.
 
-Copyright © 2022 [Mayachitra, Inc.](https://mayachitra.com/)
+Copyright © 2026 [Mayachitra, Inc.](https://mayachitra.com/)
